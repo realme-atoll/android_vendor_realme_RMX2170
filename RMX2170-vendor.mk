@@ -91,7 +91,6 @@ PRODUCT_COPY_FILES += \
     vendor/realme/RMX2170/proprietary/odm/lib/libcdm_metrics_protos.so:$(TARGET_COPY_OUT_ODM)/lib/libcdm_metrics_protos.so \
     vendor/realme/RMX2170/proprietary/odm/lib/libcdm_protos.so:$(TARGET_COPY_OUT_ODM)/lib/libcdm_protos.so \
     vendor/realme/RMX2170/proprietary/odm/lib/libdav1d.so.4:$(TARGET_COPY_OUT_ODM)/lib/libdav1d.so.4 \
-    vendor/realme/RMX2170/proprietary/odm/lib/libdeccfg.so:$(TARGET_COPY_OUT_ODM)/lib/libdeccfg.so \
     vendor/realme/RMX2170/proprietary/odm/lib/libffmpeg_omx.so:$(TARGET_COPY_OUT_ODM)/lib/libffmpeg_omx.so \
     vendor/realme/RMX2170/proprietary/odm/lib/libffmpeg_utils.so:$(TARGET_COPY_OUT_ODM)/lib/libffmpeg_utils.so \
     vendor/realme/RMX2170/proprietary/odm/lib/libgf_hal_G2.so:$(TARGET_COPY_OUT_ODM)/lib/libgf_hal_G2.so \
@@ -189,7 +188,6 @@ PRODUCT_COPY_FILES += \
     vendor/realme/RMX2170/proprietary/odm/lib64/libcdm_metrics_protos.so:$(TARGET_COPY_OUT_ODM)/lib64/libcdm_metrics_protos.so \
     vendor/realme/RMX2170/proprietary/odm/lib64/libcdm_protos.so:$(TARGET_COPY_OUT_ODM)/lib64/libcdm_protos.so \
     vendor/realme/RMX2170/proprietary/odm/lib64/libdav1d.so.4:$(TARGET_COPY_OUT_ODM)/lib64/libdav1d.so.4 \
-    vendor/realme/RMX2170/proprietary/odm/lib64/libdeccfg.so:$(TARGET_COPY_OUT_ODM)/lib64/libdeccfg.so \
     vendor/realme/RMX2170/proprietary/odm/lib64/libffmpeg_utils.so:$(TARGET_COPY_OUT_ODM)/lib64/libffmpeg_utils.so \
     vendor/realme/RMX2170/proprietary/odm/lib64/libgf_hal_G2.so:$(TARGET_COPY_OUT_ODM)/lib64/libgf_hal_G2.so \
     vendor/realme/RMX2170/proprietary/odm/lib64/libgf_hal_G3.so:$(TARGET_COPY_OUT_ODM)/lib64/libgf_hal_G3.so \
